@@ -47,8 +47,8 @@ module.exports = {
           .setColor('#d291fe')
           .setAuthor({
         name: 'Your Music! Your Rules!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157528025739563088/5657-volume-icon.png?ex=6518ef7b&is=65179dfb&hm=1797c2830537a28b5c6a57564517cc509146d02383a69fb4239d7b5d55aceeed&', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        iconURL: 'https://media.discordapp.net/attachments/1203768107697573900/1203770662280368168/20240129_005847_0000.png?ex=65d24dca&is=65bfd8ca&hm=d7476a326f0f26d17b9ef380ef01bc722cf67ef4e7bfa136a908748de9515625&', 
+        url: 'https://discord.gg/5TwPhJVjCk'
     })
           .setDescription(`**Adjusting Volume : ** **${vol}/${maxVol}**`);
 
