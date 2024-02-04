@@ -8,8 +8,8 @@ module.exports = async (client, queue, song) => {
       const embed = new EmbedBuilder()
         .setAuthor({
         name: 'Added To Queue',
-        iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157218651179597884/1213-verified.gif?ex=6517cf5a&is=65167dda&hm=bc8fb4414cb412587ade0af285b77569d2568214cf7d6baab8702ddeb6c38ad5&', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        iconURL: 'https://media.discordapp.net/attachments/1203768107697573900/1203770662280368168/20240129_005847_0000.png?ex=65d24dca&is=65bfd8ca&hm=d7476a326f0f26d17b9ef380ef01bc722cf67ef4e7bfa136a908748de9515625&', 
+        url: 'https://discord.gg/5TwPhJVjCk'
     })
         .setDescription(`<@${song.user.id}>, **${song.name}**`)
         .setColor('#14bdff')
