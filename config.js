@@ -1,18 +1,18 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
+  ownerID: ["1053871662283628615", ""],
+  botInvite: "https://discord.com/api/oauth2/authorize?client_id=1203769055912267807&permissions=8&scope=bot",
+  supportServer: "https://discord.gg/5TwPhJVjCk",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'LONELY STARS',
   commandsDir: './commands',
-  language: "en",
+  language: "vi",
   embedColor: "00fbff",
   errorLog: "",
 
 
   sponsor: {
-    status: true,
+    status: false,
     url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
   },
 
