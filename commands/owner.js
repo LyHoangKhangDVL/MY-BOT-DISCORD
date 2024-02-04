@@ -34,7 +34,7 @@ module.exports = {
           iconURL: 'https://media.discordapp.net/attachments/1203768107697573900/1203770662280368168/20240129_005847_0000.png?ex=65d24dca&is=65bfd8ca&hm=d7476a326f0f26d17b9ef380ef01bc722cf67ef4e7bfa136a908748de9515625&',
           url: 'https://discord.gg/5TwPhJVjCk'
         })
-            .setDescription(`__**About me**__:\n\n ▶️ Myself Ly Hoang Khang aka yvngkh4mg. I am a discord bot developer and web developer. I love playing games, watching anime and building different webserver applications. You will get faster replies on instagram than other social media. Feel free to contact me!\nDiscord : https://discord.gg/5TwPhJVjC\n Instagram : [yvngkh4ng](${InstagramLink})`)
+            .setDescription(`__**About me**__:\n\n ▶️ Myself Ly Hoang Khang aka yvngkh4ng. I am a discord bot developer and web developer. I love playing games, watching anime and building different webserver applications. You will get faster replies on instagram than other social media. Feel free to contact me!\nDiscord : https://discord.gg/5TwPhJVjC\n Instagram : [yvngkh4ng](${InstagramLink})`)
             .setTimestamp();
       interaction.reply({ embeds: [embed] }).catch(e => {});
 
