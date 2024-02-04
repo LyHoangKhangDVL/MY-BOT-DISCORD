@@ -35,8 +35,8 @@ module.exports = {
         .setColor('#f1002c')
         .setAuthor({
           name: 'Music Stopped',
-          iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157305318255116400/pngtree-vector-stop-icon-png-image_4233262.jpg?ex=65182011&is=6516ce91&hm=d5a8ca6010716bae836b025f8d36557a95f14c13a705f65eb09a54161649c795&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://media.discordapp.net/attachments/1203768107697573900/1203770662280368168/20240129_005847_0000.png?ex=65d24dca&is=65bfd8ca&hm=d7476a326f0f26d17b9ef380ef01bc722cf67ef4e7bfa136a908748de9515625&',
+          url: 'https://discord.gg/5TwPhJVjCk'
         })
         .setDescription('**The journey stops, but the rhythm lives on.**')
         
