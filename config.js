@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["1053871662283628615", ""],
   botInvite: "https://discord.com/api/oauth2/authorize?client_id=1203769055912267807&permissions=8&scope=bot",
   supportServer: "https://discord.gg/5TwPhJVjCk",
-  mongodbURL: "mongodb+srv://progamer:h8W7ssRe14l68w4P@cluster0.d5ps15t.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://rlx:rlx@rlx2.yulr9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   status: 'LONELY STARS',
   commandsDir: './commands',
   language: "vi",
