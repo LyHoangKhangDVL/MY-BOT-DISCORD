@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["1053871662283628615", ""],
   botInvite: "https://discord.com/api/oauth2/authorize?client_id=1203769055912267807&permissions=8&scope=bot",
   supportServer: "https://discord.gg/5TwPhJVjCk",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://progamer:h8W7ssRe14l68w4P@cluster0.d5ps15t.mongodb.net/?retryWrites=true&w=majority",
   status: 'LONELY STARS',
   commandsDir: './commands',
   language: "vi",
@@ -12,8 +12,8 @@ module.exports = {
 
 
   sponsor: {
-    status: false,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    status: true,
+    url: "https://discord.gg/wZHjUG4AYC",
   },
 
   voteManager: {
@@ -28,8 +28,8 @@ module.exports = {
   },
 
   playlistSettings: {
-    maxPlaylist: 10,
-    maxMusic: 75,
+    maxPlaylist: 100,
+    maxMusic: 750,
   },
 
   opt: {
